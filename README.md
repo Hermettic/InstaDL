@@ -1,7 +1,3 @@
-Aquí te presento una versión optimizada y más atractiva para los estándares de GitHub, utilizando emojis y mejorando la estructura del contenido para que sea más legible y profesional:
-
----
-
 # InstaDL 📸
 
 **InstaDL** es una aplicación escrita en Python que permite descargar contenido de cuentas de Instagram, incluidas aquellas privadas a las que sigues. Con esta herramienta puedes elegir qué elementos descargar (fotos, videos, historias, etc.), todo en un entorno controlado y personalizado.
